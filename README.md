@@ -3,7 +3,7 @@
 Video production manager, strategist, and consultant. I've been in the multimedia industry for 10+ years,
 and video production is genuinely fulfilling work for me. Depending on the project, my role might be
 project manager, producer, director, DP, camera operator, editor, animator, post-production supervisor,
-strategist, or consultant — sometimes several at once.
+strategist, or consultant.
 
 I have end-to-end experience with the hardware and software that makes video production pipelines work (see Skills below). My core interest areas are marketing, workflow optimization, and lifelong learning.
 
@@ -17,14 +17,14 @@ and learning engineering fundamentals so I can build *properly*.
 **Where I honestly am:**
 
 - 🎬 **Production, creative ops, and process design:** years of professional experience. This is where I bring the most independent expertise.
-- 🔧 **Code and development:** still developing my engineering fundamentals. I have hands-on experience with JavaScript, ExtendScript, Python, Node.js, and media tooling, often working with AI assistance.
+- 🔧 **Code and development:** still developing my engineering fundamentals. I have hands-on experience with JavaScript, ExtendScript, Python, Node.js, and media tooling, with AI assistance.
 - 🤖 **AI-assisted development:** I use tools like Cline and Claude to accelerate development, but I'm deliberately learning to understand the code, catch problems, test changes, and make sound technical decisions myself.
 
 ---
 
 ## 🧭 How I think about automation
 
-I don't believe in automating something just because I can. Most of the time the best fix is the boring one.
+**Less manual busy work, more work that matters.**
 
 When I decide how to execute a step, I look for the **first approach that fits**:
 
@@ -32,11 +32,11 @@ When I decide how to execute a step, I look for the **first approach that fits**
 2. **Plain code or APIs.** Predictable logic for well-defined jobs: pattern matching, polling, webhooks, scripts.
 3. **A bounded LLM call.** Only where interpretation, fuzzy matching, or judgment actually earns its keep.
 
-These approaches combine freely. When a workflow crosses applications, I use an approved integration platform where appropriate to connect them.
+When a workflow crosses applications, I use an approved integration platform where appropriate to connect them.
 
-**Human oversight is a separate consideration.** I add input or approval wherever judgment, creativity, risk, or authorization requires it. Technology should augment people, not hand them more to babysit.
+**Human in the loop is the design from the beginning,** wherever judgment, creativity, risk, or authorization benefits or adds value to the output. Technology should help people, not hand them more to do and not do it entirely for them/without human in the loop.
 
-I'll sometimes prototype with an LLM to get to a working v1 fast, then simplify each step toward something cheaper and more predictable.
+I'll sometimes rapid prototype with an LLM to get to a working v1 fast, then simplify each step toward something cheaper and more predictable aligned to the above.
 
 ---
 
@@ -45,45 +45,33 @@ I'll sometimes prototype with an LLM to get to a working v1 fast, then simplify 
 **What I know now**
 
 I know how creative work actually gets made and where it gets stuck, and I'm good at building the
-structure around it: intake, briefs, storage, review, archives. On the technical side I can script
-and tinker: ExtendScript and JavaScript for Adobe, some Python and Node, FFmpeg for media jobs, and
-plenty of XML, JSON, and CSV. I've built a working Adobe CEP panel, using AI coding tools along the way.
+structure around it: intake, briefs, planning, production, execution, storage, review, archives. On the technical side I can script
+and tinker: ExtendScript and JavaScript with some Python and Node, FFmpeg for media jobs. I've built a working Adobe CEP panel, using AI coding tools along the way.
 
 **What I'm learning**
 
-The stuff that turns "it works on my machine" into "I trust it":
-
-- TypeScript, and reading code with more confidence.
-- Git, so I can change things safely.
+- Development, Engineering, and Architecture fundamentals/best practices.
+- Reading and understanding code with more confidence.
 - Testing and debugging.
-- APIs and SQL.
-- Linux and networking basics, since media lives on networks.
+- APIs 
 
 **How I'm learning**
 
-By building small, real things from production problems I already understand. When an AI agent writes
+By building small, real tools from production problems I already understand and encounter in my day to day work. When an AI agent writes
 code for me, I make sure I can explain it, test it, and say how it might fail: understand the existing
 code first, keep changes small, review the diff, run the tests.
 
 **Things I'm exploring**
 
-- **Media intake and validation:** using FFmpeg and structured metadata to inspect assets, generate manifests, and flag potential issues.
-- **Adobe workflow automation:** scripts and utilities that reduce repetitive setup and preparation work in Premiere Pro and After Effects.
-- **AI-assisted production tooling:** how agents and integrations can help coordinate complex creative workflows.
-
-**Where I'm headed (maybe)**
-
-I don't have the exact destination mapped out, and I'm okay with that. The pull is toward where creative
-production and building tools overlap: creative technology, media workflows and pipelines, automation
-and integrations. I'm letting the projects show me which parts I enjoy most.
+- **Media intake and validation:** using FFmpeg and structured metadata to inspect assets, generate manifests, and flag potential issues or use as triggers to kick off automations.
+- **Workflow automation:** scripts and utilities that reduce repetitive work, especially communication between apps/systems in our stack.
+- **AI-assisted production tooling:** how agents and integrations can help expedite less-creative parts of creative workflows.
 
 ---
 
 ## 🛠️ Skills
 
 ●●●●● Advanced · ●●●●○ Strong · ●●●○○ Intermediate · ●●○○○ Developing · ●○○○○ Beginner · 🌱 actively learning
-
-Meters reflect what I can **independently implement and troubleshoot**, not what I can get done with an AI agent beside me. A low rating doesn't mean I haven't used something — just that I'm not yet independently proficient. Self-assessed.
 
 ### Creative Production & Media Technology
 
@@ -178,6 +166,6 @@ I'm lucky to work with kind people. A few themes keep showing up in their recomm
 ## 🤝 Let's talk
 
 I'd love to connect with people working in creative technology, media systems, workflow automation,
-or practical AI. I'm always up for swapping stories about workflow headaches and the tools that fixed them.
+or practical AI. I'm always up for swapping stories about workflow headaches and the solutions that fixed them.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/themichaeljharris/)
