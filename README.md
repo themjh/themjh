@@ -14,8 +14,6 @@ It's untangling messy cross-team processes, finding the real root cause, and kee
 and vendors moving in the same direction. Lately I've been pairing that with hands-on building
 and learning engineering fundamentals so I can build *properly*.
 
-**Where I honestly am:**
-
 - 🎬 **Production, creative ops, and process design:** years of professional experience. This is where I bring the most independent expertise.
 - 🔧 **Code and development:** still developing my engineering fundamentals. I have hands-on experience with JavaScript, ExtendScript, Python, Node.js, and media tooling, with AI assistance.
 - 🤖 **AI-assisted development:** I use tools like Cline and Claude to accelerate development, but I'm deliberately learning to understand the code, catch problems, test changes, and make sound technical decisions myself.
