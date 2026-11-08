@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋
 
-Video production manager, strategist, and consultant. I've been in the multimedia industry for 10+ years,
+I've been in the multimedia industry for 10+ years,
 and video production is genuinely fulfilling work for me. Depending on the project, my role might be
 project manager, producer, director, DP, camera operator, editor, animator, post-production supervisor,
 strategist, or consultant.
