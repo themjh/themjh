@@ -106,9 +106,9 @@ Meters reflect what I can **independently implement and troubleshoot**, not what
 | Workflow Analysis & Optimization | ●●●●○ |
 | Intake & Requirements Design | ●●●●○ |
 | Project & Production Management | ●●●●○ |
-| Technical Workflow Documentation | ●●●●○ |
-| monday.com | ●●●●○ |
-| Frame.io | ●●●●○ |
+| Technical Workflow Documentation | ●●●○○ |
+| monday.com | ●●●○○ |
+| Frame.io | ●●●○○ |
 | Creative Operations & Systems Design | ●●●○○ |
 | Wistia (incl. analytics) | ●●●○○ |
 | Trint | ●●●○○ |
@@ -120,7 +120,7 @@ Meters reflect what I can **independently implement and troubleshoot**, not what
 | Skill | Level |
 |---|---|
 | Cross-Application Workflow Design | ●●●○○ 🌱 |
-| Zapier | ●●●○○ |
+| Zapier | ●●○○○ |
 | HTML / CSS | ●●○○○ |
 | XML / JSON / CSV | ●●○○○ |
 | Automation Architecture | ●●○○○ 🌱 |
@@ -138,7 +138,7 @@ Meters reflect what I can **independently implement and troubleshoot**, not what
 
 | Skill | Level |
 |---|---|
-| Human-in-the-Loop Workflow Design | ●●●○○ |
+| Human-in-the-Loop Workflow Design | ●●○○○ |
 | Agentic Workflow Design | ●●○○○ |
 | AI-Assisted Coding (VS Code, Cline, Claude) | ●●○○○ 🌱 |
 | Prompt & Context Engineering | ●●○○○ 🌱 |
