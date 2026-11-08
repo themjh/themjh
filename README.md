@@ -10,8 +10,7 @@ I have end-to-end experience with the hardware and software that makes video pro
 Currently, I'm the in-house Video Production Manager at [SAP Engagement Cloud](https://www.sap.com), a line of business within SAP under the Customer Experience org.
 
 What I'm best at isn't any one skill — but I also wouldn't call myself a generalist 😄.
-It's untangling messy cross-team processes, finding the real root cause, and keeping stakeholders
-and vendors moving in the same direction. Lately I've been pairing that with hands-on building
+It's untangling messy cross-team processes, finding the real root cause, and streamlining our way to an efficient process that creates mlre opportuntiy for human expertise and creativity and removes repetitive busy work. Lately I've been pairing that with hands-on building
 and learning engineering fundamentals so I can build *properly*.
 
 - 🎬 **Production, creative ops, and process design:** years of professional experience. This is where I bring the most independent expertise.
