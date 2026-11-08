@@ -21,8 +21,6 @@ and learning engineering fundamentals so I can build *properly*.
 
 ## 🧭 How I think about automation
 
-**Less manual busy work, more work that matters.**
-
 When I decide how to execute a step, I look for the **first approach that fits**:
 
 1. **What the app already does.** Native features and built-in automations first.
